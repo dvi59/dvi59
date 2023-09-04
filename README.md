@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**dvi59/dvi59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Davi Leme, sou um desenvolvedor Fullstack Java, estudante de Engenharia da Computação na UTFPR.
 
-Here are some ideas to get you started:
+#### 🌱 Atualmente estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Spring Framework
+- Angular
+
+#### 👯 Estou interessado em colaborar em
+
+- Projetos open source relacionados a Java, Spring, ou qualquer coisa interessante.
+
+#### 💬 Pergunte-me sobre
+
+- Struts
+- Spring
+- React
+- Node.js
+- JavaScript
+
+#### 📫 Como me encontrar
+
+- Email: [leme.davi470@gmail.com](mailto:leme.davi470@gmail.com)
+- LinkedIn: [Davi Leme](https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/davi-leme-868762186/))
